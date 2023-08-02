@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Smruti Singh
-- 👀 I’m interested in exploring new things.
+- 👀 I’m certified Data Analyst
 - 🌱 I’m currently learning Html,CSS,Python
-- 💞️ I’m looking to collaborate on Web Development projects
+- 💞️ I’m looking to collaborate on Web Development projects and Data Anlaysis projects
 - 📫 
 
 <!---
